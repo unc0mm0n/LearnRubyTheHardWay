@@ -1,3 +1,5 @@
+# Excersie 1: http://ruby.learncodethehardway.org/book/ex1.html
+
 # Since I'm not completely new to ruby or programming I won't do everything in every exercise
 # However I will probably still do the extra credit.
 
