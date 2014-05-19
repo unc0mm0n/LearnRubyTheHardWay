@@ -1,4 +1,4 @@
-# Excersie 15: http://ruby.learncodethehardway.org/book/ex15.html
+# Excersie 16: http://ruby.learncodethehardway.org/book/ex16.html
 
 # Some files IO! happy happy fun fun
 
