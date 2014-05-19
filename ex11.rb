@@ -1,4 +1,4 @@
-# Excersie 10: http://ruby.learncodethehardway.org/book/ex10.html
+# Excersie 11: http://ruby.learncodethehardway.org/book/ex11.html
 
 # finally getting some input
 
